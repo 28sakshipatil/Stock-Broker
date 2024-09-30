@@ -6,10 +6,10 @@ import Footer from '../Footer';
 function PricingPage() {
     return (  
         <>
-        <Navbar />
+        {/* <Navbar /> */}
         <Hero />
         <Brokerage />
-        <Footer />
+        {/* <Footer /> */}
 
         </>
     );

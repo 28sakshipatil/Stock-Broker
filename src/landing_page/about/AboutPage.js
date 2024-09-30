@@ -6,10 +6,10 @@ import Footer from '../Footer';
 function AboutPage() {
     return (  
         <div >
-        <Navbar />
+        {/* <Navbar /> */}
         <Hero />
         <Team />
-        <Footer />
+        {/* <Footer /> */}
         </div>
     );
 }

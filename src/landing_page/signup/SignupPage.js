@@ -7,9 +7,9 @@ function SignupPage
 () {
     return ( 
         <>
-        <Navbar />
+        {/* <Navbar /> */}
         <SignUp />
-        <Footer />
+        {/* <Footer /> */}
         </>
      );
 }
